@@ -103,7 +103,7 @@ for(i = 0; i < operators.length; i++){
     });
     
     cL.addEventListener("click",function(){
-         var sec = result.textContent.substring(0,result.textContent.length-1);
+        var sec = result.textContent.substring(0,result.textContent.length-1);
         result.innerHTML = sec;
     });
     
