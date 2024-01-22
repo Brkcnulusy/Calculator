@@ -1,3 +1,3 @@
 # Project Link
 
-[Calculator](https://brkcnulusy.github.io/Calculator/)
+[Calculator](https://brkcnulusy.github.io/Calculator/calculator.html)
